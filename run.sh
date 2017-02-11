@@ -1,5 +1,3 @@
 #!/bin/bash
 
-elm-make example/Main.elm --output main.js
-
-node runner.js
+elm-run-worker example/Main.elm
