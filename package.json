@@ -1,0 +1,26 @@
+{
+  "name": "elm-node-elm-compiler",
+  "version": "1.0.0",
+  "description": "Elm Node Elm Compiler in Elm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeue56/elm-node-elm-compiler.git"
+  },
+  "keywords": [
+    "elm",
+    "node"
+  ],
+  "author": "eeue56",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eeue56/elm-node-elm-compiler/issues"
+  },
+  "homepage": "https://github.com/eeue56/elm-node-elm-compiler#readme",
+  "dependencies": {
+    "node-elm-compiler": "^4.3.0"
+  }
+}
