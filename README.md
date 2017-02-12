@@ -3,11 +3,10 @@ Elm compiler via node-elm-compiler
 
 ## Install
 
-You need `elm install` in order to install this package.
+You need [elm-proper-install](https://github.com/eeue56/elm-proper-install) in order to install this package.
 
 ```
-npm install node-elm-compiler
-elm install eeue56/elm-node-elm-compiler
+elm-proper-install eeue56/elm-node-elm-compiler
 ```
 
 ## Usage
