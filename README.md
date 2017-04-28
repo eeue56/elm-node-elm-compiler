@@ -1,12 +1,17 @@
 # elm-node-elm-compiler
 Elm compiler via node-elm-compiler
 
+:fire: :fire: :fire: :fire:
+
+Experimental.
+
 ## Install
 
-You need [elm-proper-install](https://github.com/eeue56/elm-proper-install) in order to install this package.
+You need elm-github-install in order to install this package.
 
 ```
-elm-proper-install eeue56/elm-node-elm-compiler
+npm install node-elm-compiler elm-github-install
+elm install eeue56/elm-node-elm-compiler
 ```
 
 ## Usage
